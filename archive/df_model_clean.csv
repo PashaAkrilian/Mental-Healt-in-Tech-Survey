@@ -1,0 +1,110 @@
+treatment_bin,benefits,care_options,wellness_program,seek_help,anonymity,leave,mental_health_consequence,phys_health_consequence,mental_health_interview,phys_health_interview,mental_vs_physical,coworkers,supervisor,obs_consequence,Age,AgeGroup,Gender_simple,no_employees,remote_work
+1,Yes,Yes,No,No,No,Very difficult,Maybe,No,No,Maybe,No,Yes,Yes,No,42,40-49,Female,100-500,No
+0,Yes,Not sure,Yes,Unknown,Yes,Very easy,No,No,No,Yes,Yes,Yes,Yes,Yes,46,40-49,Male,1-5,Yes
+1,Yes,Yes,No,No,Unknown,Unknown,Maybe,No,No,Maybe,No,Some of them,Yes,No,46,40-49,Male,26-100,Yes
+1,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,No,Maybe,Yes,Unknown,Some of them,Some of them,No,42,40-49,Male,26-100,Yes
+1,Yes,Yes,No,No,Unknown,Unknown,Maybe,No,No,Maybe,Yes,Some of them,No,No,40,40-49,Female,1-5,No
+0,Yes,Yes,Yes,Yes,Unknown,Unknown,Yes,Maybe,No,No,No,Some of them,No,Yes,40,40-49,Male,More than 1000,Yes
+1,No,Yes,No,No,Yes,Very difficult,No,No,Yes,Yes,No,Yes,Yes,No,40,40-49,Male,26-100,No
+0,Yes,Not sure,Unknown,Unknown,Unknown,Unknown,Maybe,Maybe,No,No,Unknown,No,Some of them,No,44,40-49,Female,100-500,No
+1,Yes,Yes,No,Yes,Yes,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,45,40-49,Male,6-25,Yes
+0,No,Yes,No,No,Unknown,Very difficult,Maybe,No,No,Maybe,No,Yes,Yes,No,42,40-49,Male,6-25,No
+1,Yes,No,No,No,Yes,Somewhat difficult,No,No,No,No,Yes,Yes,Yes,No,45,40-49,Female,1-5,No
+1,Unknown,Not sure,Unknown,Unknown,Unknown,Unknown,Yes,Yes,No,No,Unknown,Some of them,Some of them,No,45,40-49,Male,More than 1000,No
+1,Yes,Not sure,No,Unknown,Unknown,Very difficult,Yes,Maybe,No,No,No,No,No,No,43,40-49,Male,More than 1000,Yes
+1,No,Not sure,No,No,Unknown,Very difficult,Maybe,Maybe,Maybe,Maybe,Unknown,Some of them,Some of them,No,41,40-49,Male,6-25,Yes
+0,Yes,Yes,Yes,Yes,Yes,Somewhat easy,No,No,No,No,Yes,Some of them,Yes,No,40,40-49,Female,26-100,No
+1,Yes,Yes,No,Unknown,Unknown,Unknown,Maybe,Maybe,Maybe,Maybe,No,Some of them,No,No,41,40-49,Male,500-1000,Yes
+1,Yes,Yes,Yes,Yes,Yes,Unknown,Yes,Maybe,No,Maybe,No,No,No,Yes,40,40-49,Male,More than 1000,Yes
+0,No,Yes,No,Yes,Unknown,Somewhat easy,No,No,No,No,Yes,Some of them,Yes,No,42,40-49,Male,6-25,Yes
+0,No,Not sure,No,No,Unknown,Somewhat easy,Maybe,No,Yes,Yes,Unknown,Yes,Yes,No,43,40-49,Male,6-25,Yes
+1,Yes,Yes,Unknown,No,Unknown,Very easy,No,No,Yes,Yes,Yes,Yes,Yes,No,41,40-49,Male,26-100,Yes
+1,Yes,Yes,Unknown,Unknown,Yes,Unknown,Maybe,No,No,Maybe,Unknown,Some of them,Some of them,No,45,40-49,Male,More than 1000,No
+1,Yes,Yes,Unknown,Yes,Yes,Somewhat easy,No,No,Maybe,Maybe,Yes,Some of them,Yes,No,41,40-49,Male,100-500,Yes
+1,No,No,No,No,Unknown,Very difficult,No,No,No,No,Unknown,No,No,No,45,40-49,Male,1-5,No
+0,Yes,Not sure,Yes,Unknown,Unknown,Very easy,No,No,Maybe,Maybe,Unknown,Some of them,Some of them,No,46,40-49,Male,26-100,No
+1,Yes,No,Yes,Yes,Unknown,Somewhat difficult,Maybe,No,No,Maybe,No,Yes,Some of them,Yes,41,40-49,Male,More than 1000,No
+1,Yes,Yes,Unknown,Unknown,Unknown,Unknown,Maybe,No,No,Maybe,Unknown,No,Some of them,No,45,40-49,Male,26-100,Yes
+1,Yes,Not sure,No,Unknown,Unknown,Somewhat easy,No,No,No,No,Unknown,Some of them,Some of them,No,41,40-49,Male,500-1000,No
+0,Unknown,Not sure,No,No,Unknown,Unknown,No,No,Maybe,Maybe,Unknown,Some of them,Yes,No,42,40-49,Male,500-1000,No
+0,Unknown,No,No,No,Unknown,Unknown,Maybe,Maybe,No,No,No,No,No,No,48,40-49,Male,26-100,No
+1,Yes,Yes,Yes,Yes,Yes,Unknown,Maybe,No,Maybe,Yes,Yes,Some of them,Yes,Yes,41,40-49,Male,More than 1000,No
+1,Yes,Yes,No,No,Yes,Very easy,No,No,Maybe,Maybe,Yes,Yes,Yes,No,43,40-49,Male,6-25,Yes
+1,Yes,Yes,No,No,Yes,Unknown,Yes,No,No,Maybe,Unknown,Some of them,No,No,42,40-49,Female,100-500,Yes
+1,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Yes,Maybe,No,Yes,Unknown,No,No,No,43,40-49,Male,More than 1000,No
+0,Unknown,No,No,Unknown,Unknown,Unknown,Maybe,No,No,Maybe,Unknown,No,No,No,48,40-49,Male,6-25,No
+0,No,No,No,No,No,Unknown,Yes,Maybe,No,Maybe,No,Some of them,No,Yes,40,40-49,Male,More than 1000,No
+1,Yes,Yes,Yes,Yes,Unknown,Unknown,Maybe,No,No,No,Yes,Some of them,No,No,46,40-49,Male,More than 1000,No
+1,Yes,Yes,Yes,Yes,Unknown,Very easy,No,No,No,Yes,Yes,Some of them,Yes,No,47,40-49,Male,More than 1000,No
+0,Unknown,No,No,Unknown,Unknown,Unknown,Maybe,No,No,No,Unknown,Some of them,No,No,43,40-49,Male,6-25,Yes
+1,Yes,Not sure,Yes,Yes,Yes,Unknown,No,No,No,Maybe,Yes,Some of them,Yes,No,46,40-49,Male,500-1000,Yes
+1,Yes,Yes,Yes,Yes,Yes,Very easy,Maybe,Maybe,No,No,Yes,Some of them,Some of them,No,41,40-49,Female,500-1000,Yes
+0,No,No,No,No,Unknown,Somewhat difficult,No,No,No,No,No,Some of them,Some of them,No,40,40-49,Male,26-100,No
+1,Yes,Yes,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,Maybe,Maybe,Unknown,Yes,Yes,No,42,40-49,Male,More than 1000,No
+1,Yes,No,No,No,Unknown,Unknown,Maybe,Maybe,No,No,Unknown,Some of them,Some of them,Yes,41,40-49,Male,More than 1000,No
+1,No,Yes,No,No,Unknown,Somewhat easy,No,No,No,Maybe,Unknown,Yes,Yes,No,43,40-49,Male,6-25,No
+1,Yes,Not sure,Yes,Yes,Unknown,Unknown,Maybe,No,No,No,No,Some of them,Some of them,No,41,40-49,Male,More than 1000,No
+0,Unknown,Not sure,Unknown,Unknown,Unknown,Unknown,No,No,No,No,Yes,Yes,Yes,No,43,40-49,Male,500-1000,Yes
+1,No,Yes,Yes,No,Unknown,Somewhat difficult,Yes,Yes,No,No,No,No,No,Yes,49,40-49,Male,1-5,Yes
+0,Unknown,No,No,No,Unknown,Unknown,No,No,Maybe,Maybe,Unknown,Some of them,Yes,No,43,40-49,Male,100-500,No
+1,Yes,Not sure,No,Yes,Unknown,Very easy,No,No,No,Maybe,Yes,Yes,Yes,No,45,40-49,Male,1-5,Yes
+1,Yes,Not sure,Yes,Yes,Yes,Somewhat easy,Maybe,Maybe,No,No,Yes,Some of them,Yes,No,49,40-49,Male,100-500,No
+1,No,No,No,No,Yes,Very difficult,Yes,No,No,Maybe,No,Yes,No,Yes,43,40-49,Male,1-5,Yes
+0,Unknown,Not sure,Yes,Yes,Yes,Very easy,No,No,No,Maybe,Yes,Some of them,No,No,42,40-49,Male,More than 1000,Yes
+0,No,No,No,No,Yes,Very easy,No,No,Maybe,Maybe,Yes,Some of them,Yes,No,40,40-49,Male,6-25,No
+0,Unknown,No,No,Unknown,Unknown,Unknown,Maybe,No,No,Maybe,No,No,No,No,43,40-49,Male,6-25,Yes
+1,Unknown,No,No,Unknown,Unknown,Unknown,No,No,Yes,Yes,Unknown,Yes,Yes,No,43,40-49,Male,26-100,No
+0,Yes,Yes,No,Yes,Unknown,Unknown,Maybe,No,No,Maybe,No,Some of them,Some of them,No,41,40-49,Male,More than 1000,No
+1,No,Yes,No,No,No,Very easy,Yes,Yes,No,No,Yes,Some of them,No,No,44,40-49,Male,1-5,Yes
+0,Yes,No,Yes,Yes,Unknown,Unknown,No,No,No,Maybe,Unknown,Some of them,Yes,No,43,40-49,Male,More than 1000,No
+0,Unknown,Not sure,No,No,Unknown,Somewhat easy,Yes,Maybe,No,No,Unknown,Some of them,No,No,40,40-49,Male,1-5,Yes
+0,Yes,Not sure,No,Unknown,Unknown,Unknown,Maybe,No,No,Maybe,Unknown,Some of them,Some of them,No,40,40-49,Male,100-500,No
+0,Unknown,No,No,Unknown,Unknown,Very difficult,Yes,Yes,No,No,No,No,No,No,47,40-49,Female,100-500,Yes
+1,No,Yes,No,No,Yes,Very easy,No,No,No,No,Yes,Yes,Yes,No,40,40-49,Male,1-5,Yes
+0,Yes,Yes,Yes,Yes,Yes,Unknown,No,No,No,Maybe,Unknown,Some of them,Some of them,No,40,40-49,Male,More than 1000,No
+1,No,Yes,No,No,Unknown,Somewhat easy,Maybe,No,No,Maybe,Unknown,No,No,No,42,40-49,Male,1-5,Yes
+0,Unknown,No,No,Unknown,Unknown,Unknown,No,No,No,Maybe,Unknown,Some of them,Yes,No,43,40-49,Male,More than 1000,Yes
+1,Unknown,Not sure,No,Unknown,Unknown,Unknown,Maybe,Maybe,No,Yes,Unknown,Some of them,Some of them,No,40,40-49,Male,500-1000,Yes
+1,No,No,No,No,Unknown,Very difficult,Yes,Yes,No,No,No,Some of them,No,Yes,43,40-49,Male,26-100,No
+1,Yes,Yes,No,Yes,Yes,Somewhat difficult,Yes,Maybe,No,Maybe,No,No,No,Yes,49,40-49,Male,More than 1000,No
+1,Yes,Yes,Yes,Yes,Yes,Unknown,Maybe,Maybe,No,Maybe,Yes,Yes,Yes,Yes,48,40-49,Male,More than 1000,No
+1,No,No,No,No,Unknown,Somewhat easy,Yes,No,No,Maybe,No,Some of them,No,Yes,48,40-49,Male,6-25,No
+1,Yes,Yes,No,Yes,Yes,Very difficult,Yes,Maybe,No,Maybe,No,Some of them,No,Yes,43,40-49,Male,100-500,Yes
+1,Unknown,No,No,Unknown,Unknown,Unknown,Yes,Maybe,No,Maybe,Unknown,No,No,No,42,40-49,Male,6-25,No
+1,Yes,Yes,Yes,Yes,Yes,Somewhat difficult,Maybe,Maybe,No,Maybe,No,Some of them,Yes,No,44,40-49,Male,6-25,Yes
+1,Yes,Yes,Yes,Yes,Yes,Very difficult,Yes,No,No,Maybe,Unknown,Some of them,Some of them,Yes,40,40-49,Male,More than 1000,Yes
+1,Yes,Yes,Yes,Yes,Unknown,Somewhat easy,No,No,Maybe,Yes,Yes,Yes,Yes,No,43,40-49,Male,More than 1000,No
+1,Yes,Yes,Unknown,Unknown,Yes,Very easy,Maybe,No,No,No,Unknown,Some of them,Some of them,No,40,40-49,Male,6-25,No
+0,No,Not sure,No,No,Unknown,Very difficult,Yes,Maybe,No,Maybe,No,No,No,Yes,43,40-49,Male,More than 1000,Yes
+1,Unknown,Not sure,No,Unknown,Unknown,Unknown,No,No,No,Maybe,Unknown,Yes,Yes,No,40,40-49,Male,6-25,No
+0,Yes,Yes,Yes,Yes,Yes,Unknown,No,No,No,No,Yes,Yes,Yes,No,49,40-49,Male,More than 1000,No
+1,No,No,No,No,Unknown,Unknown,Maybe,Maybe,No,Maybe,No,Some of them,Yes,No,40,40-49,Male,1-5,Yes
+1,Unknown,No,No,Unknown,Unknown,Unknown,Maybe,No,No,Maybe,Unknown,Some of them,Yes,No,42,40-49,Male,6-25,Yes
+0,Unknown,Not sure,No,No,Unknown,Unknown,Yes,No,No,No,Unknown,No,No,No,44,40-49,Female,100-500,No
+1,Unknown,No,No,Unknown,Unknown,Unknown,Maybe,Maybe,No,No,Unknown,Some of them,Some of them,No,42,40-49,Male,6-25,Yes
+0,Yes,Yes,Yes,No,Unknown,Unknown,Yes,Yes,No,No,Unknown,No,No,No,40,40-49,Female,100-500,Yes
+1,Yes,Yes,No,Yes,Unknown,Unknown,Yes,No,No,Maybe,Unknown,No,No,No,40,40-49,Male,More than 1000,Yes
+0,Unknown,No,No,No,Yes,Somewhat difficult,No,No,No,No,Unknown,No,No,No,44,40-49,Male,1-5,Yes
+0,Yes,Not sure,No,Yes,Unknown,Unknown,Maybe,No,No,No,Unknown,No,No,No,43,40-49,Male,More than 1000,Yes
+0,Yes,Yes,Yes,Yes,Unknown,Unknown,Maybe,Maybe,No,No,Yes,Some of them,No,Yes,41,40-49,Male,More than 1000,No
+1,Yes,Yes,Yes,Yes,Yes,Unknown,Yes,Yes,No,Maybe,No,No,No,Yes,40,40-49,Male,More than 1000,No
+1,Yes,Not sure,No,Unknown,Unknown,Unknown,Maybe,Maybe,No,Maybe,Unknown,Some of them,Some of them,No,43,40-49,Male,1-5,Yes
+1,Unknown,No,No,No,Unknown,Somewhat difficult,No,No,No,No,Yes,Yes,Yes,No,41,40-49,Male,More than 1000,No
+1,Yes,Not sure,Yes,Unknown,Unknown,Somewhat difficult,Maybe,No,No,Maybe,Unknown,Some of them,Some of them,Yes,40,40-49,Male,More than 1000,No
+0,Unknown,No,No,Unknown,Unknown,Unknown,No,No,No,No,Yes,Yes,Some of them,No,43,40-49,Male,500-1000,No
+0,Yes,No,No,No,Unknown,Unknown,Yes,Maybe,No,Maybe,Unknown,Some of them,No,No,45,40-49,Male,6-25,Yes
+1,Unknown,Not sure,No,Unknown,Unknown,Very easy,Maybe,No,No,Maybe,Unknown,Yes,Some of them,No,40,40-49,Male,100-500,No
+1,Unknown,Yes,No,Unknown,Unknown,Unknown,Yes,Maybe,No,Maybe,Unknown,No,Some of them,No,46,40-49,Male,6-25,No
+0,No,No,No,No,Unknown,Somewhat difficult,Maybe,Maybe,Maybe,Maybe,Unknown,Some of them,Some of them,No,41,40-49,Male,6-25,No
+1,Yes,Yes,No,Yes,Yes,Somewhat easy,No,No,No,Maybe,Yes,Yes,Yes,Yes,40,40-49,Female,26-100,No
+0,No,Yes,No,No,Unknown,Somewhat easy,No,No,Maybe,Maybe,Unknown,Some of them,Some of them,No,40,40-49,Male,1-5,Yes
+1,Yes,Yes,No,No,Yes,Unknown,Maybe,No,No,No,Yes,Some of them,No,No,40,40-49,Male,6-25,No
+1,Yes,Yes,No,Yes,Yes,Unknown,Maybe,No,No,No,Unknown,Some of them,Some of them,No,44,40-49,Male,100-500,No
+0,Unknown,Not sure,No,No,Unknown,Unknown,Yes,No,No,No,No,Yes,Some of them,Yes,45,40-49,Male,More than 1000,Yes
+0,No,Yes,No,No,No,Somewhat difficult,Yes,Yes,No,No,No,Some of them,Some of them,No,42,40-49,Male,26-100,No
+1,Unknown,No,No,No,Unknown,Unknown,Maybe,No,No,No,No,Some of them,No,No,46,40-49,Male,26-100,No
+1,Unknown,Not sure,Unknown,Unknown,Unknown,Unknown,No,No,Yes,Yes,Unknown,Some of them,Yes,No,46,40-49,Male,100-500,Yes
+1,Unknown,Yes,Unknown,Yes,No,Somewhat easy,No,No,Yes,Yes,Yes,Yes,Yes,No,41,40-49,Female,1-5,Yes
+1,Yes,Yes,No,Yes,Unknown,Unknown,No,No,No,No,Unknown,Some of them,Yes,No,43,40-49,Female,More than 1000,Yes
+1,Yes,No,No,Unknown,Unknown,Unknown,Yes,Maybe,No,No,Unknown,No,No,No,41,40-49,Female,26-100,No
+0,No,Yes,No,No,Unknown,Unknown,Yes,No,No,No,No,No,No,No,46,40-49,Female,100-500,Yes
